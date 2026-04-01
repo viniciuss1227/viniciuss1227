@@ -1,9 +1,16 @@
 # Olá, eu sou o Vinicius 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre — Braz Cubas) com foco em desenvolvimento **backend Python** e integração de **APIs REST**.
+Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre — Braz Cubas)
+com foco em desenvolvimento **backend Python** e integração de **APIs REST**.
+Desenvolvo projetos próprios com FastAPI, SQLAlchemy e PHP, com banco de dados
+relacional (MySQL/SQLite) e consumo de APIs externas. Inglês **B2** para leitura
+de documentação técnica e comunicação.
 
-Desenvolvo projetos próprios com FastAPI, SQLAlchemy e PHP, com banco de dados relacional (MySQL/SQLite) e consumo de APIs externas. Inglês **B2** para leitura de documentação técnica e comunicação.
+Aprendo de forma intencional — priorizo entender o que estou construindo e por quê,
+não só executar. Meu objetivo é evoluir para desenvolvimento de produto, criando
+ferramentas que façam sentido para quem as usa.
 
+🔍 Aberto a oportunidades como Desenvolvedor Backend Júnior (Python, FastAPI e PHP).
 ---
 
 ## 🛠️ Stack
