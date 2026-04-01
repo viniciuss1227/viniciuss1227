@@ -45,10 +45,11 @@ Aplicação web em PHP que consome uma **API de IA (APYHub)** via cURL para gera
 
 ## 📚 Formação & Cursos
 
-- 🎓 **ADS** — Centro Universitário Braz Cubas *(cursando)*
-- ☁️ **Microsoft & GitHub Copilot Challenge 2025** — Bootcamp
-- ☕ **Santander Bootcamp Backend Java 2025** — DIO
-
+-  **ADS** — Centro Universitário Braz Cubas *(cursando)*
+-  **Python 3 do Básico ao Avançado** — Udemy *(2026 — Em andamento)*
+-  **Desenvolvimento Full Stack** — B7Web *(2026 — Em andamento)*
+-  **Inglês — Fluency Academy** *(2022–2023)*
+-  **Fundamentos de TI – Hardware e Software — Fundação Bradesco** *(2019)* 
 ---
 
 ## 📫 Contato
