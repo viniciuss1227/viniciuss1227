@@ -9,17 +9,18 @@ Aprender com intencionalidade é o meu norte: priorizo entender a fundo *o que* 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica & Idiomas
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
 | **Linguagens & Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
 | **Banco de Dados & ORM** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) **SQLAlchemy ORM** |
 | **Infraestrutura & Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) **Linux (Básico)** |
-| **Idiomas** | 🇧🇷 Português (Nativo) | 🇬🇧 Inglês (B2 Upper Intermediate / C1 Listening - EF SET) | 🇫🇷 Francês (A2) |
 
----
-
+**Idiomas:**
+* 🇧🇷 **Português:** Nativo
+* 🇬🇧 **Inglês:** B2 Upper Intermediate (Listening C1 - EF SET)
+* 🇫🇷 **Francês:** A2 (Em desenvolvimento)
 ## 🚀 Projetos em Destaque (Provas Técnicas)
 
 ### 🧠 [SRS Flashcards – Sistema de Repetição Espaçada](https://github.com/viniciuss1227/srs-project)
