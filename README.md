@@ -44,5 +44,5 @@ Antes da transição integral para a tecnologia, construí uma base corporativa 
 
 ## 📫 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-matheus-rocha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-matheus-569650216/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinicius.matheus1227@gmail.com)
